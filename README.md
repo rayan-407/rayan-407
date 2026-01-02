@@ -1,13 +1,13 @@
-Hi, I’m Muhammad Rayan 👋
+#Hi, I’m Muhammad Rayan 👋
 
-Computer Science Student | Aspiring Cyber Security Red Teamer
+**Computer Science Student | Aspiring Cyber Security Red Teamer**
 
 I am a Computer Science student at the University of the Punjab, with a strong passion for Cyber Security, especially Red Teaming and ethical hacking.
 My main focus is on understanding how systems are attacked, learning offensive security techniques, and building a strong technical foundation to become a professional Red Team expert.
 
 I believe that strong fundamentals, hands-on practice, and continuous learning are the keys to success in cyber security.
 
-My Career Goal 🎯
+##My Career Goal 🎯
 
 To become a Cyber Security Expert (Red Teamer) who can:
 
@@ -19,7 +19,7 @@ Simulate cyber attacks to improve system security
 
 I aim to work in offensive security, helping organizations strengthen their defenses by thinking like an attacker.
 
-What I’m Currently Learning 📚
+##What I’m Currently Learning 📚
 
 ✅ Programming fundamentals
 ✅ Computer Networks (basics)
@@ -28,7 +28,7 @@ What I’m Currently Learning 📚
 ✅ Introduction to ethical hacking & Red Team concepts
 
 Skills & Technologies 🛠️
-Programming Languages
+##Programming Languages
 
 C++
 
@@ -54,7 +54,7 @@ VS Code
 
 Linux (Kali / Ubuntu – beginner level)
 
-Practice & Academic Work 💻
+##Practice & Academic Work 💻
 
 🔹 C++ programming practice
 🔹 Cyber security learning labs
@@ -80,7 +80,7 @@ Capture The Flag (CTF) challenges
 
 Real-world cyber security projects
 
-Let’s Connect 🤝
+##Let’s Connect 🤝
 
 I’m open to:
 
