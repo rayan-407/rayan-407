@@ -4,7 +4,7 @@
 <p align="center">
 I'm a BSCS student at the University of the Punjab with a strong focus on offensive security — 
 Red Teaming, ethical hacking, and understanding how systems get attacked so I can help defend them better.
-Currently applying what I learn through a Cyber Security Internship at <b>Decode Labs</b>.
+Currently applying what I learn through a Cyber Security Internship 
 </p>
 
 ---
